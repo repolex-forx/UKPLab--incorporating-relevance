@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/incorporating-relevance/commit/454a5c7585649aefd1d3f91b58bf6feee2d2d0d9",
       "git:hexsha": "454a5c7585649aefd1d3f91b58bf6feee2d2d0d9",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
